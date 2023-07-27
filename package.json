@@ -1,0 +1,8 @@
+{
+  "name": "recognition.js",
+  "version": "1.0.0",
+  "description": "recognize face in web",
+  "main": "index.js",
+  "author": "bagdaulet <bagdaulet.front@gmail.com>",
+  "license": "MIT"
+}
