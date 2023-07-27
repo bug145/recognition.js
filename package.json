@@ -4,5 +4,9 @@
   "description": "recognize face in web",
   "main": "index.js",
   "author": "bagdaulet <bagdaulet.front@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "face-api.js": "justadudewhohacks/face-api.js"
+  }
 }
