@@ -1,4 +1,4 @@
-class Recognizer {
+export default class Recognizer {
   initFaceApi() {
     return new Promise(function (resolve, reject) {
       if (window.faceapi) {
